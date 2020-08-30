@@ -1,5 +1,11 @@
 ### Hi there! My name is Ish! 👋
 
+- 💻 Tester helping with Quality, Automation and Performance
+- 💼 Currently working @ [Sprinklr](https://www.sprinklr.com)
+- 🎓 Constantly in search for learning and areas to improve my skills
+- 📫 Can be contacted [here](https://www.linkedin.com/in/ish-abbi/)
+- 💬 I blog sometimes [here](https://rookieintraining.github.io/)
+
 <!--
 **rookieInTraining/rookieInTraining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
