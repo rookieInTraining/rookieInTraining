@@ -1,7 +1,7 @@
 ### Hi there! My name is Ish! 👋
 
 - 💻 Tester helping with Quality, Automation and Performance
-- 🖥 I also help in design + development of internal tools and integration
+- 🖥 I also help in design + development of testing frameworks and integration
 - 💼 Currently working @ [Sprinklr](https://www.sprinklr.com)
 - 🎓 Constantly in search for learning and areas to improve my skills
 - 📫 Can be contacted [here](https://www.linkedin.com/in/ish-abbi/)
