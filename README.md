@@ -7,7 +7,11 @@
 - 📫 Can be contacted [here](https://www.linkedin.com/in/ish-abbi/)
 - 💬 I blog sometimes [here](https://rookieintraining.github.io/)
 
+![Ish's Github Stats](https://github-readme-stats.vercel.app/api?username=rookieintraining&show_icons=true&theme=vue-dark)
+
 <!--
+![visitors](https://visitor-badge.glitch.me/badge?page_id=rookieintraining.visitor-badge&left_color=green&right_color=red)
+
 **rookieInTraining/rookieInTraining** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
