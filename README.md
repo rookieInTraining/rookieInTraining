@@ -4,7 +4,7 @@
 - 🖥 I also help in design + development of testing frameworks and their integrations
 - 💼 Currently working @ [Sprinklr](https://www.sprinklr.com)
 - 🎓 Constantly in search for learning and areas to improve my skills
-- 📫 Can be contacted [here](https://www.linkedin.com/in/ish-abbi/)
+- 📫 Can be contacted [here](https://topmate.io/ish_abbi)
 - 💬 I blog sometimes [here](https://rookieintraining.github.io/)
 
 ![Ish's Github Stats](https://github-readme-stats.vercel.app/api?username=rookieintraining&show_icons=true&theme=vue-dark)
