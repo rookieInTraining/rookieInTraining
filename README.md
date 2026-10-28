@@ -1,3 +1,5 @@
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/rookieInTraining/badge.svg)](https://hub.xerj.org/contributors/rookieInTraining)
+
 ### Hi there! My name is Ish! 👋
 
 - 💻 Tester helping with Quality, Automation and Performance
